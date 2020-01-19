@@ -1,0 +1,45 @@
+header {
+    background-image: url(/CAP1/resources/image/image1.jpeg);
+    text-align: center;
+}
+header h1 {
+    background-color: rgba(0, 94, 94, 0.5);
+    color: white;
+}
+header a {
+    color: rgb(255, 255, 255);
+}
+.linkText {
+    
+    background-color: blue;
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Contact-me-form {
+    text-align: center;
+}
+.contact-me {
+    color: white;
+    background-color: #008080 ;
+}
